@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="simplechat1/|postal/|pointcp/|threads/" kind="src" path="Client + Server/code"/>
+	<classpathentry kind="src" path="Client + Server/code/pointcp"/>
+	<classpathentry kind="src" path="Client + Server/code/postal"/>
+	<classpathentry kind="src" path="Client + Server/code/simplechat1"/>
+	<classpathentry kind="src" path="Client + Server/code/threads"/>
+	<classpathentry kind="src" path="Client + Server/V2Code"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="Client + Server/bin"/>
+</classpath>
